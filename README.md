@@ -26,10 +26,9 @@ Notebook ini menggunakan beberapa library utama Python untuk analisis data:
 
 - **Import dan Persiapan Data**
 - **Eksplorasi Awal Data**
-- **Visualisasi Pola Perjalanan**
+- **Visualisasi Jumlah Penumpang**
 - **Uji Statistik:**
-  - Uji t dua sampel independen
-  - Uji ANOVA satu arah
+  - Uji Mann-Whitney U
 - **Kesimpulan dan Rekomendasi**
 
 ## 📈 Contoh Visualisasi
